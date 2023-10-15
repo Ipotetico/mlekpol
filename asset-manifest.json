@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/mlekpol/static/css/main.de81bba7.css",
-    "main.js": "/mlekpol/static/js/main.25ae2e02.js",
+    "main.css": "/mlekpol/static/css/main.51c5253e.css",
+    "main.js": "/mlekpol/static/js/main.6ca0afcf.js",
     "index.html": "/mlekpol/index.html",
-    "main.de81bba7.css.map": "/mlekpol/static/css/main.de81bba7.css.map",
-    "main.25ae2e02.js.map": "/mlekpol/static/js/main.25ae2e02.js.map"
+    "main.51c5253e.css.map": "/mlekpol/static/css/main.51c5253e.css.map",
+    "main.6ca0afcf.js.map": "/mlekpol/static/js/main.6ca0afcf.js.map"
   },
   "entrypoints": [
-    "static/css/main.de81bba7.css",
-    "static/js/main.25ae2e02.js"
+    "static/css/main.51c5253e.css",
+    "static/js/main.6ca0afcf.js"
   ]
 }
