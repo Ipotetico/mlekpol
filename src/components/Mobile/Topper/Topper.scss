@@ -1,0 +1,27 @@
+.topper_container {
+    position: relative;
+    width: 100%;
+    height: 50%;
+    display: flex;
+    color: white;
+    box-sizing: border-box;
+
+    .background {
+        position: absolute;
+        top: 0%;
+        left: 40%;
+        transform: translateX(-50%);
+        height: auto;
+        width: 150%;
+        z-index: -2;
+        filter: brightness(1);
+    }
+
+    .headline {
+        position: absolute;
+        width: 150%;
+        top: 5%;
+        left: -30%;
+        z-index: -1;
+    }
+}

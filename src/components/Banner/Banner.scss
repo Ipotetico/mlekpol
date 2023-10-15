@@ -1,0 +1,31 @@
+.container {
+    position: -webkit-sticky;
+    position: -moz-sticky;
+    position: -ms-sticky;
+    position: -o-sticky;
+    position: sticky;
+    width: 100vw;
+    background-color: black;
+    top: 3vw;
+    display: flex;
+    justify-content: center;
+
+
+
+
+    .banner_container {
+        width: 100vw;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: black;
+
+
+
+
+        img {
+            max-width: 100%;
+            max-height: 100vh;
+        }
+    }
+}
