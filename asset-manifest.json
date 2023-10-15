@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mlekpol/static/css/main.de81bba7.css",
+    "main.js": "/mlekpol/static/js/main.25ae2e02.js",
+    "index.html": "/mlekpol/index.html",
+    "main.de81bba7.css.map": "/mlekpol/static/css/main.de81bba7.css.map",
+    "main.25ae2e02.js.map": "/mlekpol/static/js/main.25ae2e02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de81bba7.css",
+    "static/js/main.25ae2e02.js"
+  ]
+}
